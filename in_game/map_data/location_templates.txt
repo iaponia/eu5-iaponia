@@ -1,0 +1,20 @@
+my_sea_zone = { topography = narrows climate = subtropical}
+
+testprovince1 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat natural_harbor_suitability=1.00}
+testprovince2 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
+testprovince3 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
+testprovince4 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
+testprovince5 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
+testprovince6 = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = danube_bavarian raw_material = wheat}
+
+wasteland1 = { topography = flatland_wasteland vegetation = woods climate = arctic}
+wasteland2 = { topography = flatland_wasteland vegetation = woods climate = arctic}
+wasteland3 = { topography = flatland_wasteland vegetation = woods climate = arctic}
+wasteland4 = { topography = flatland_wasteland vegetation = woods climate = arctic}
+wasteland5 = { topography = flatland_wasteland vegetation = woods climate = arctic}
+wasteland6 = { topography = flatland_wasteland vegetation = woods climate = arctic}
+wasteland7 = { topography = flatland_wasteland vegetation = woods climate = arctic}
+wasteland8 = { topography = flatland_wasteland vegetation = woods climate = arctic}
+wasteland9 = { topography = flatland_wasteland vegetation = woods climate = arctic}
+wasteland10 = { topography = flatland_wasteland vegetation = woods climate = arctic}
+wasteland_blocker = { topography = flatland_wasteland vegetation = woods climate = arctic}

@@ -1,0 +1,17 @@
+{
+	"name":	"Iaponia Universalis",
+	"id":	"iaponia/iaponiaeu5",
+	"version":	"0.1",
+	"supported_game_version":	"1.0.11",
+	"short_description":	"Iaponia Universalis, made for Europa Universalis V",
+	"tags":	["Map", "Overhaul"],
+	"picture" : "thumbnail.png",
+	"relationships" : [],
+	"game_custom_data" : {
+		"multiplayer_synchronized" : true,
+		"replace_paths" : [
+			"common/holy_sites",
+			"in_game/setup/countries"
+		]
+	}
+}
