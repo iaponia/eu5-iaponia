@@ -1,0 +1,3 @@
+discovered_regions = {
+	custom_region
+}

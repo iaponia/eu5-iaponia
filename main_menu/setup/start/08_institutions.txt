@@ -1,26 +1,26 @@
  locations={
 
-	testprovince1 = {
+	province1 = {
 		feudalism = yes
 		legalism = yes
 	}
-	testprovince2 = {
+	province2 = {
 		feudalism = yes
 		legalism = yes
 	}
-	testprovince3 = {
+	province3 = {
 		feudalism = yes
 		legalism = yes
 	}
-	testprovince4 = {
+	province4 = {
 		feudalism = yes
 		legalism = yes
 	}
-	testprovince5 = {
+	province5 = {
 		feudalism = yes
 		legalism = yes
 	}
-	testprovince6 = {
+	province6 = {
 		feudalism = yes
 		legalism = yes
 	}

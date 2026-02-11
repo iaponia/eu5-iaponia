@@ -1,0 +1,8 @@
+NJominiMap = {
+    @world_height = 32
+    @water_level_percentage = 0.086
+    WORLD_EXTENTS_X = 2048
+    WORLD_EXTENTS_Y = @world_height
+    WORLD_EXTENTS_Z = 2048
+    WATERLEVEL = @[ world_height * water_level_percentage ]
+}

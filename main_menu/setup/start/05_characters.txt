@@ -11,7 +11,7 @@ character_db={
 		adm = 85 dip = 66 mil = 33
 		female = no
 		birth_date = 1298.12.12
-		birth = testprovince1
+		birth = province1
 		dynasty = habsburg_dynasty
 		fertility = 75
 		tag = HAB

@@ -2,7 +2,7 @@ dynasty_manager = {
 
 	habsburg_dynasty = {
 		name = { name = habsburg_dynasty }
-		home = testprovince1
+		home = province1
 		dynasty_name_type = location
 		male_names = {
 			name_albert name_frederick name_leopold name_otto name_rudolf name_vladislav

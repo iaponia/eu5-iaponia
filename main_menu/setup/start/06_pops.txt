@@ -1,36 +1,36 @@
 locations={
 
-	testprovince1 = {
+	province1 = {
 		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
-	testprovince2 = {
+	province2 = {
 		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
-	testprovince3 = {
+	province3 = {
 		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
-	testprovince4 = {
+	province4 = {
 		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
-	testprovince5 = {
+	province5 = {
 		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = peasants	size = 35.598	culture = danube_bavarian	religion = catholic }
 	}
-	testprovince6 = {
+	province6 = {
 		define_pop = {	type = nobles	size = 0.012	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = clergy	size = 0.057	culture = danube_bavarian	religion = catholic }
 		define_pop = {	type = burghers	size = 1.776	culture = danube_bavarian	religion = catholic }
